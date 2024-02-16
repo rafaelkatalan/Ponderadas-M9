@@ -1,12 +1,12 @@
 # Simulador de Sensor MQTT
 
-Este é um simulador de sensor MQTT que gera leituras aleatórias e as publica em um tópico MQTT. Esse projeto é útil para testar e demonstrar a comunicação MQTT entre dispositivos e servidores.
+Este é um simulador de sensor MQTT que simula leituras aleatórias do MiCS-6814 e as publica em um tópico MQTT. Esse projeto é útil para testar e demonstrar a comunicação MQTT entre dispositivos e servidores.
 
 ## Instalação
 
 ### 1. **Clonar o Repositório:**
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/rafaelkatalan/Ponderadas-M9/tree/master/P1
    ```
    Vá até o repositorio no terminal.
 
